@@ -1,0 +1,376 @@
+body {
+	text-align:justify;
+	margin-left:50px;
+	margin-right:50px;
+	color:#012942;
+	background:#fdf5ff;
+}
+p {
+	font-family:century gothic;
+	font-size:17px;
+	text-align:#012942;
+}
+h2 {
+	text-align:left;
+	margin:0px;
+	font-family:Franklin Gothic Medium;
+	font-size:40px;
+	text-shadow:2px 2px 2px #000;
+	color:#ed1d51;
+}
+
+h4 {
+	font-size:20px;
+	font-family:century gothic;
+	text-align:center;
+}
+a {
+	text-decoration:none;
+	
+}
+html {
+	scroll-behavior: smooth;
+}
+
+#menu {
+	padding:50px 5px;
+	position:fixed;
+	right:0px;
+	top:80px;
+	width:60px;
+	font-size:22px;
+	text-align:center;
+	list-style:none;
+	color:#ed1d51;
+	opacity:0.70;
+	background-image:url(../images/ASD.jpg);
+	background-position:center;
+	background-size:cover;
+	border-radius:100px;
+}
+
+#menu a {
+	text-decoration:none;
+	margin:10px;
+	color:#ed1d51;
+}
+
+.cover {
+	background-image:url(../images/FSY.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:100px;
+	margin-bottom:0px;
+}
+
+
+.info {
+	padding:7px;
+	margin:10px;
+	margin-left:50px;
+	margin-right:50px;
+	text-align:justify;
+	color:#012942
+}
+
+/* day 1 */
+
+.highlight {
+	background-image:url(../images/ASD.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin-bottom:10px;
+}
+
+.photo1 {
+	background-image:url(../images/day1.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	padding:50px;
+	border-style:solid;
+	border-color:black;
+}
+
+.day1 {
+	display:grid;
+	grid-gap:10px;
+	grid-template-columns:1fr 1fr;
+}
+
+.one {
+	text-align:justify;
+	margin-bottom:10px;
+	margin-left:150px;
+}
+
+.Aa {
+	background:url(../images/3.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;	
+	margin-right:80px;
+	margin-top:10px;
+	margin-bottom:20px;
+}
+
+.pics {
+	display:grid;
+	grid-template-columns:repeat(3,1fr);
+	grid-gap:10px;
+	margin-top:10px;
+	margin-bottom:30px;
+}
+
+.Bb {
+	background:url(../images/1.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:100px;
+}
+
+.Cc {
+	background:url(../images/4.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:50px;
+	
+}
+
+.Dd {
+	background:url(../images/2.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:50px;
+}
+
+/* day 1 */
+
+
+
+/* day 2 */
+
+.photo2 {
+	background-image:url(../images/day2.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	padding:50px;
+	border-style:solid;
+	border-color:black;
+	margin-top:10px;
+}
+.isa {
+	display:grid;
+	grid-template-columns:repeat(2,1fr);
+	grid-gap:10px;
+	margin-top:10px;
+}
+
+.pics1 {
+	margin-left:120px;
+	text-align:center;
+	margin-bottom:20px;
+}
+
+
+.Ee {
+	background:url(../images/5.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:70px;
+}
+
+.Ff {
+	background:url(../images/6.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:70px;
+}
+
+.two {
+	text-align:justify;
+	margin-right:120px;
+}
+
+
+
+/* day 2 */
+
+/* day 3 */
+
+.photo3 {
+	background-image:url(../images/day3.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	padding:50px;
+	border-style:solid;
+	border-color:black;
+	margin-top:10px;
+}
+
+.day3 {
+	display:grid;
+	grid-template-columns:repeat(3,1fr);
+	grid-gap:0px;
+	margin-top:10px;
+	margin-bottom:20px;
+}
+
+.Gg {
+	background:url(../images/8.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:10px;
+}
+
+.Hh {
+	padding:10px;
+}
+
+.Ii {
+	background:url(../images/9.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:10px;
+}
+
+/* day 3 */
+
+
+
+/* day 4 */
+
+.photo4 {
+	background-image:url(../images/day4.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	padding:50px;
+	border-style:solid;
+	border-color:black;
+	margin-top:10px;
+}
+
+.four {
+	text-align:justify;
+	margin-right:120px;
+}
+
+.dalawa {
+	display:grid;
+	grid-template-columns:repeat(2,1fr);
+	grid-gap:10px;
+	margin-top:10px;
+}
+
+.Jj {
+	background:url(../images/11.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:70px;
+}
+
+.Kk {
+	background:url(../images/12.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:70px;
+}
+/* day 4 */
+
+
+
+/* day 5 */
+
+.highlight {
+	background-image:url(../images/ASD.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin-bottom:10px;
+}
+
+.photo5 {
+	background-image:url(../images/day5.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	padding:50px;
+	border-style:solid;
+	border-color:black;
+}
+
+.day5 {
+	display:grid;
+	grid-gap:10px;
+	grid-template-columns:1fr 1fr;
+}
+
+.five {
+	text-align:justify;
+	margin-bottom:10px;
+	margin-left:150px;
+}
+
+.Ll {
+	background:url(../images/13.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:contain;	
+	margin-right:80px;
+	margin-top:10px;
+	margin-bottom:20px;
+}
+
+.pics5 {
+	display:grid;
+	grid-template-columns:repeat(3,1fr);
+	grid-gap:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+
+.Mm {
+	background:url(../images/14.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:100px;
+}
+
+.Nn {
+	background:url(../images/15.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:50px;
+	
+}
+
+.Oo {
+	background:url(../images/16.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:50px;
+}
+
+/*day 5 */
+
+.footer {
+	padding:10px;
+	background-image:url(../images/ASD.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	opacity:0.70;
+	text-align:center;
+	color:black;
+}
