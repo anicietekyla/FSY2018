@@ -55,6 +55,9 @@ html {
 	color:#ed1d51;
 }
 
+#menu a:hover {
+	color:#012942;
+}
 .cover {
 	background-image:url(../images/FSY.jpg);
 	background-position:center;
